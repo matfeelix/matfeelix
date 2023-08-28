@@ -8,4 +8,4 @@ Olá a todos 👋, comecei como um jovem aprendiz determinado a explorar o mundo
 
 📚Estou prestes a dar um grande passo na minha carreira, pois estou iniciando minha faculdade em Análise e Desenvolvimento de Sistemas. Estou animado para aprofundar meus conhecimentos e aplicar novas perspectivas aos desafios que enfrento diariamente.
 
-############################ AQUI POSTAREI TODAS AS MINHAS "AVENTURAS" DO MEU DESENVOLVIMENTE, DESDE API'S VOLTADAS PARA MEU TRABALHO ATUAL, ATÉ MESMO PROJETOS DESENVOLVIDOS EM CURSO E CURIOSIDADE PESSOAL ########################################
+############################ AQUI POSTAREI TODAS AS MINHAS "AVENTURAS" DO MEU DESENVOLVIMENTE, DESDE API'S VOLTADAS PARA MEU TRABALHO ATUAL, ATÉ MESMO PROJETOS DESENVOLVIDOS EM CURSO E CURIOSIDADE PESSOAL ####################################
